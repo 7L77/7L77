@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning in SCAU
+🌱 I’m currently learning in SZU
 And I`d like to learning in AI and JAVA
 <!--
 **7L77/7L77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
